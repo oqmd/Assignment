@@ -1,0 +1,315 @@
+commit c902a90a71a3a9399df3c01ef279dbc838e8ea00
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 21:05:52 2023 +1000
+
+    final update
+    
+    final update of software design document
+
+commit 8722ad5f2af14334c036a7e3eda616ff3cdd42b0
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 20:57:04 2023 +1000
+
+    Create log.txt
+    
+    git log
+
+commit ad4e65f9ab98250c3bd06fc3878a48f5af0b35cd
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 20:53:11 2023 +1000
+
+    delete temporary files
+    
+    deleted all temporary files generated during the development
+
+commit 144e6fb226c5fad987f80f2c85d59f5f1737a985
+Merge: 3b5d9ad deaeae6
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 20:49:55 2023 +1000
+
+    Merge branch 'main' of https://github.com/oqmd/Assignment
+
+commit 3b5d9ad1b52457621ffb0dc38d2cdd5fcf82ded6
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 20:49:39 2023 +1000
+
+    update project plan and software design document
+    
+    final version for project plan and software design document
+
+commit deaeae6ff0e6ac9c7cc2e7c49646504f4566f28d
+Author: VictorICT <143057587+VictorICT@users.noreply.github.com>
+Date:   Mon Sep 4 20:39:51 2023 +1000
+
+    Add files via upload
+    
+    Final
+
+commit 30eb658b0a5db00ed5cb3cd396815eb9d0662b1e
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 13:24:41 2023 +1000
+
+    Update Software Design Document.docx
+    
+    updated software design document with question 3.2.3 and 4 unfinished
+
+commit 4f91ec8bfa5f8c95f14da4ad5ca0c90a3f920091
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 13:23:32 2023 +1000
+
+    Delete Software Design Document (1).docx
+
+commit c7ce1735c16c7425d64afc15171653779ec33d7d
+Merge: 6986e9c fc7db06
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 13:15:21 2023 +1000
+
+    Merge branch 'main' of https://github.com/oqmd/Assignment
+
+commit 6986e9c16be3c8f2a7983205fc0dc7080d496234
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 13:13:53 2023 +1000
+
+    Update Project Plan.docx
+    
+    updated project plan v2.0
+
+commit ab5a62a1dd01f42bc3d8fe68f221647ab2906c86
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 13:13:16 2023 +1000
+
+    Update Gantt chart.xlsx
+    
+    updated gantt chart
+
+commit fc7db06874d9067fc8a9308e25955e859c57b0c0
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Mon Sep 4 09:50:07 2023 +1000
+
+    Completed Q3 of Software Design Document
+
+commit a12d867e3e785f893eec9fef2ecfc821053a2a2f
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Sun Sep 3 21:42:57 2023 +1000
+
+    Update Software Design Document.docx
+    
+    updated version with 1, 2 & 3.1 completed
+
+commit 6ff28bc7784bcd38c12110da95e244e7ad53d66f
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Sun Sep 3 20:02:56 2023 +1000
+
+    Update Project Plan.docx
+    
+    updated project plan with part 1 & 3 completed
+
+commit 940f1460d181bc93fd773b728ce8edb39bfd0015
+Author: s5255523 <110766837+s5255523@users.noreply.github.com>
+Date:   Sun Sep 3 19:55:03 2023 +1000
+
+    Delete Project_Plan.docx
+
+commit 8f89ad706b0011b07a9b726c8bdfca1d75a38776
+Author: s5255523 <110766837+s5255523@users.noreply.github.com>
+Date:   Sun Sep 3 19:53:48 2023 +1000
+
+    Add files via upload
+
+commit f7762da9d589b47b066c292d6dbdf8e6d4c325b1
+Author: VictorICT <143057587+VictorICT@users.noreply.github.com>
+Date:   Sat Sep 2 21:28:10 2023 +1000
+
+    Add files via upload
+
+commit 96740140d7ca81f23ef4ffe02e682be6f02e6ed5
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 12:46:23 2023 +1000
+
+    Add files via upload
+
+commit 87e61fe57035bf191a434d2bfff21bc733c4a403
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 12:40:35 2023 +1000
+
+    Update UML Class Diagram.drawio
+
+commit cabc7ab142856326d851d7b3c0b6f729826a09d3
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 12:40:25 2023 +1000
+
+    Update UML Class Diagram.drawio
+
+commit a7ce7c05c9e4741fb7a40744e75ed2a20483c22b
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 11:47:51 2023 +1000
+
+    Update UML Class Diagram.drawio
+
+commit 03d221cca4a301da19954ab59f5c97a4d853c13b
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 11:45:39 2023 +1000
+
+    Update UML Class Diagram.drawio
+
+commit 681c4dc4f8ea85a69ef9e916a55ff6d14beac450
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 11:35:02 2023 +1000
+
+    Update UML Class Diagram.drawio
+
+commit ff72a5161ac80ad0828d703c7f44f6a0958d6ca2
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 10:05:49 2023 +1000
+
+    Update UML Class Diagram (Feel free to edit).drawio
+
+commit 5c66edc27d3f467d1fab11ed8b504c3e5269482e
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 09:37:25 2023 +1000
+
+    Update UML Class Diagram (It's still incomplete!).drawio
+
+commit 8263874f98e74e9fc4cd84c8cd852b5e551df95d
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 09:08:49 2023 +1000
+
+    First save of UML Class Diagram.drawio
+
+commit 4be3e0612def7bb6ae45b519a6d26e750ed19a26
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 2 08:58:34 2023 +1000
+
+    Added UML Class Diagram.drawio
+
+commit acddfb02fc6ae9e8dc0f2df9d6c9207220a5f77e
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Fri Sep 1 11:24:46 2023 +1000
+
+    Added a formatted version of Requirements
+
+commit 33da8516989723b895d1b11b237784563e29ee8b
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Fri Sep 1 10:37:12 2023 +1000
+
+    Update Use-Case.drawio
+
+commit 8e18420732aad77d7a1b94ed42148f581af3e786
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Fri Sep 1 10:14:09 2023 +1000
+
+    Saved Use-Case.drawio
+
+commit b0e977d966b7f43971f1e3806d117230a6a6640f
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Fri Sep 1 09:56:49 2023 +1000
+
+    Added Use-Case.drawio
+
+commit f3ea0a5b2eece50e1ad4d76800e9ec41340541d2
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Aug 31 14:04:15 2023 +1000
+
+    Update System Vision
+    
+    Added System Overview so I can work on the requirements
+
+commit 3e29210d0033166e157c9e1f40b43915d510790a
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Wed Aug 30 10:40:11 2023 +1000
+
+    Create System Vision
+    
+    No edits.
+
+commit 6c6bd0cecaa247772a42eeefc75b4623d1dfd5a9
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Wed Aug 30 10:39:01 2023 +1000
+
+    Create Project Plan
+    
+    Added first text. No edits
+
+commit e018feb495cb036afdd5838e0f9635382b70d6ee
+Merge: 30c8922 efe7a75
+Author: s5255523 <110766837+s5255523@users.noreply.github.com>
+Date:   Thu Aug 24 14:39:18 2023 +1000
+
+    Merge pull request #2 from oqmd/Luke
+    
+    Ruin the file
+
+commit 30c89225595531dede1652f5d23c3330fe279335
+Merge: ed0aeb7 44f3263
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Aug 24 14:38:05 2023 +1000
+
+    Merge pull request #1 from oqmd/s5255523
+    
+    line 4 in my own branch
+
+commit efe7a75bf3886335641685071cbe15ddc037622c
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Aug 24 14:37:04 2023 +1000
+
+    Ruin the file
+    
+    Added a line at the start!
+
+commit 44f3263090bdf971f708ec9a132669e9b355a35a
+Author: s5255523 <110766837+s5255523@users.noreply.github.com>
+Date:   Thu Aug 24 14:37:02 2023 +1000
+
+    line 4 in my own branch
+    
+    change in my own branch
+
+commit ed0aeb76df3657a53f31015dfed9beb52876c5a5
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Aug 24 14:28:50 2023 +1000
+
+    Removed headings
+
+commit 6bb2bf64cf0200751be2405342178f2ac3f73967
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Aug 24 14:26:28 2023 +1000
+
+    Added Tasks
+
+commit babe5f9b47680ea0d14c8ac1fc08df4a5c83b761
+Author: s5255523 <110766837+s5255523@users.noreply.github.com>
+Date:   Thu Aug 24 14:23:55 2023 +1000
+
+    Add up all templates needed
+    
+    add up all templates
+
+commit dac0b51e6fab8f13a896f98e60317adc8a5c7205
+Author: s5255523 <110766837+s5255523@users.noreply.github.com>
+Date:   Thu Aug 24 14:16:23 2023 +1000
+
+    Update Test File
+    
+    add another line
+
+commit 02010b193ad5d86300b5f9ae7ca91071ab646b35
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Aug 24 14:15:28 2023 +1000
+
+    Create Test File
+    
+    Added 2 lines
+
+commit 743a4fdd8db9907f4fab2bf1bdf5a4d0af1c1d1d
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Aug 24 14:02:50 2023 +1000
+
+    Create Assignment file
+    
+    The assignment file is created
+
+commit 53045978e9a0c1fff8f23626d47fc87149a79683
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Aug 24 13:59:35 2023 +1000
+
+    Initial commit
