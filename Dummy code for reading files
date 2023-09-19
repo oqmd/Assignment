@@ -1,0 +1,5 @@
+f = open('listings_dec18.csv', mode='r')
+listingsArr = []
+for i in f:
+    listingsArr += i.strip('\n').split(',')
+    print(i.strip('\n').split(','))
