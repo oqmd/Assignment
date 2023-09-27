@@ -1,0 +1,81 @@
+# -*- coding: utf-8 -*-
+
+###########################################################################
+## Python code generated with wxFormBuilder (version 3.10.1-0-g8feb16b3)
+## http://www.wxformbuilder.org/
+##
+## PLEASE DO *NOT* EDIT THIS FILE!
+###########################################################################
+
+import wx
+import wx.xrc
+
+###########################################################################
+## Class MyFrame1
+###########################################################################
+
+class MyFrame1 ( wx.Frame ):
+
+	def __init__( self, parent ):
+		wx.Frame.__init__ ( self, parent, id = wx.ID_ANY, title = wx.EmptyString, pos = wx.DefaultPosition, size = wx.Size( 500,577 ), style = wx.DEFAULT_FRAME_STYLE|wx.TAB_TRAVERSAL )
+
+		self.SetSizeHints( wx.DefaultSize, wx.DefaultSize )
+
+		self.m_menubar2 = wx.MenuBar( 0 )
+		self.m_menu2 = wx.Menu()
+		self.m_menubar2.Append( self.m_menu2, u"MyMenu" )
+
+		self.SetMenuBar( self.m_menubar2 )
+
+		bSizer5 = wx.BoxSizer( wx.VERTICAL )
+
+		bSizer6 = wx.BoxSizer( wx.VERTICAL )
+
+		self.m_searchCtrl1 = wx.SearchCtrl( self, wx.ID_ANY, wx.EmptyString, wx.DefaultPosition, wx.DefaultSize, 0 )
+		self.m_searchCtrl1.ShowSearchButton( True )
+		self.m_searchCtrl1.ShowCancelButton( False )
+		bSizer6.Add( self.m_searchCtrl1, 0, wx.ALL|wx.ALIGN_CENTER_HORIZONTAL|wx.EXPAND, 5 )
+
+
+		bSizer5.Add( bSizer6, 0, wx.ALIGN_CENTER_HORIZONTAL|wx.EXPAND, 5 )
+
+		gSizer4 = wx.GridSizer( 0, 2, 0, 0 )
+
+		self.m_simplebook1 = wx.Simplebook( self, wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, 0 )
+
+		gSizer4.Add( self.m_simplebook1, 1, wx.EXPAND |wx.ALL, 5 )
+
+		self.m_simplebook2 = wx.Simplebook( self, wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, 0 )
+
+		gSizer4.Add( self.m_simplebook2, 1, wx.EXPAND |wx.ALL, 5 )
+
+		self.m_simplebook3 = wx.Simplebook( self, wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, 0 )
+
+		gSizer4.Add( self.m_simplebook3, 1, wx.EXPAND |wx.ALL, 5 )
+
+		self.m_simplebook4 = wx.Simplebook( self, wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, 0 )
+
+		gSizer4.Add( self.m_simplebook4, 1, wx.EXPAND |wx.ALL, 5 )
+
+		self.m_simplebook5 = wx.Simplebook( self, wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, 0 )
+
+		gSizer4.Add( self.m_simplebook5, 1, wx.EXPAND |wx.ALL, 5 )
+
+		self.m_simplebook7 = wx.Simplebook( self, wx.ID_ANY, wx.DefaultPosition, wx.DefaultSize, 0 )
+
+		gSizer4.Add( self.m_simplebook7, 1, wx.EXPAND |wx.ALL, 5 )
+
+
+		bSizer5.Add( gSizer4, 1, wx.EXPAND, 5 )
+
+
+		self.SetSizer( bSizer5 )
+		self.Layout()
+
+		self.Centre( wx.BOTH )
+
+	def __del__( self ):
+		pass
+
+
+
