@@ -1,3 +1,32 @@
+commit ca26f3d642fbd595e119f0719b24bb09846b1953
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Wed Oct 11 22:19:43 2023 +1000
+
+    Update Gantt chart.xlsx
+    
+    update final version of gantt chart
+
+commit a90f59551c60cb18bcd2327670d2748dad86dddd
+Merge: 2c42a76 a083fbd
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Wed Oct 11 22:02:33 2023 +1000
+
+    Merge branch 'main' of https://github.com/oqmd/Assignment
+
+commit 2c42a766507b77b037a73f1ac39543da9652dbf2
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Wed Oct 11 22:02:17 2023 +1000
+
+    update git log
+    
+    update git log
+
+commit a083fbd3c3c3b633a1764884cefd7cc2b3df397b
+Author: VictorICT <143057587+VictorICT@users.noreply.github.com>
+Date:   Wed Oct 11 21:59:06 2023 +1000
+
+    Add files via upload
+
 commit 7b440e0105c04afcaa1897ff8c3ea1c18a326eac
 Author: VictorICT <143057587+VictorICT@users.noreply.github.com>
 Date:   Wed Oct 11 21:54:29 2023 +1000
