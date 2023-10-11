@@ -1,3 +1,130 @@
+commit 7b440e0105c04afcaa1897ff8c3ea1c18a326eac
+Author: VictorICT <143057587+VictorICT@users.noreply.github.com>
+Date:   Wed Oct 11 21:54:29 2023 +1000
+
+    Add files via upload
+
+commit 9bfb9e399d3a2ad86feca8743fc5b241960f954a
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Wed Oct 11 21:28:20 2023 +1000
+
+    Delete Gantt chart (2).xlsx
+    
+    delete duplicated file
+
+commit 34743ec2fb0a0a11834860708f81191595d391b7
+Merge: 327d330 bd7852b
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Wed Oct 11 21:26:50 2023 +1000
+
+    Merge branch 'main' of https://github.com/oqmd/Assignment
+
+commit 327d3309f44e87ee0b8a0f15cca62b52a85c75b0
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Wed Oct 11 21:25:33 2023 +1000
+
+    Update Gantt chart.xlsx
+    
+    update new gantt chart
+
+commit bd7852b0098529659b4670ba57652048114482a3
+Author: VictorICT <143057587+VictorICT@users.noreply.github.com>
+Date:   Wed Oct 11 21:13:28 2023 +1000
+
+    Add files via upload
+
+commit 7bb2adb9c2e1a58a8a8477bcfa0e25b2e2ca9836
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Wed Oct 11 20:27:39 2023 +1000
+
+    updated executive summary
+    
+    updated executive summary
+
+commit 85c598c64e0c10a564f2acc404f14eb61fa5828a
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Wed Oct 11 20:58:01 2023 +1100
+
+    Updated Executive Summary
+    
+    This is the correct Executive Summary
+
+commit 797bbfdb5de792c35fe988522b478fc0430dcc61
+Author: VictorICT <143057587+VictorICT@users.noreply.github.com>
+Date:   Wed Oct 11 19:23:24 2023 +1000
+
+    Add files via upload
+
+commit 4ef36c23384ac620502f911fc567acfee72f3c2f
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Tue Oct 10 23:54:53 2023 +1000
+
+    updated executive summary
+    
+    updated executive summary
+
+commit 08a438972dcd59a532cff7ab8d58adbda1005176
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Tue Oct 10 23:53:52 2023 +1000
+
+    upload user manual
+    
+    upload user manual for software
+
+commit b07be440acb68f18380db80e6f609d9bf9e38751
+Author: VictorICT <143057587+VictorICT@users.noreply.github.com>
+Date:   Tue Oct 10 18:26:31 2023 +1000
+
+    Add files via upload
+
+commit ad36ac3e65682119c44f0860b66375336cff3526
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Mon Oct 9 22:08:40 2023 +1100
+
+    Added the introduction section (Unedited)
+
+commit 77335c31b65cdeac12fb3f88b87476545e9e7c4e
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Sat Sep 30 10:16:38 2023 +1000
+
+    New wx form builder (With images)
+    
+    Added images. I will try to implement other design features.
+
+commit 409b79ae6297e29f550759956f2923dc9a1dc580
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Wed Sep 27 11:58:56 2023 +1000
+
+    Add files via upload
+
+commit a834def1f8e76a57c5deb676b9ddca61c2c48605
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Wed Sep 27 10:25:43 2023 +1000
+
+    Create Wx form builder file
+    
+    This isn't complete. The form is divided into sections still, but the listings are missing. I will try to add other elements that are missing.
+
+commit 60193efd373c6abfbb2cd9a8603b3794447d50b5
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Wed Sep 20 08:59:31 2023 +1000
+
+    Create Dummy code for reading files
+
+commit 6cdeeeb375f28e7f249d8aba94206c1728714c52
+Author: oqmd <126835668+oqmd@users.noreply.github.com>
+Date:   Thu Sep 14 13:09:57 2023 +1000
+
+    Update Software Testing Report.docx
+
+commit d4020001bdef8f5b9715cd4b2495a5d998bb5c55
+Author: s5255523 <yiling.shou@griffithuni.edu.au>
+Date:   Mon Sep 4 21:06:42 2023 +1000
+
+    Create log.txt
+    
+    update git log ready for submission
+
 commit c902a90a71a3a9399df3c01ef279dbc838e8ea00
 Author: s5255523 <yiling.shou@griffithuni.edu.au>
 Date:   Mon Sep 4 21:05:52 2023 +1000
